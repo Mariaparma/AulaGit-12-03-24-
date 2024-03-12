@@ -1,5 +1,5 @@
 let a = 10;
-let b = 18;
+let b = 20;
 let par;
 let resultado = 0;g
 
