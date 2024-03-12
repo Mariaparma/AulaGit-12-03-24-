@@ -1,4 +1,4 @@
-let a = 0;
+let a = 9;
 let b = 10;
 let par;
 let resultado = 0;
@@ -12,5 +12,5 @@ for (let i = a; i <= b; i++) {
 
 }
 
-console.log(resultado)
+console.log(resultado) 
 
