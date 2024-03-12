@@ -1,4 +1,4 @@
-let a = 4;
+let a = 2;
 let b = 6;
 let par;
 let resultado = 0;g
